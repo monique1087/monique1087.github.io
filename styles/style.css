@@ -1,0 +1,55 @@
+a:hover{
+    text-decoration: none;
+
+}
+
+.bg-roxo{
+    background-color: #7e459b;
+}
+
+a-nav-link:hover{
+    font-weight: 500!important;
+}
+
+.font span{
+    font-weight: inherit;
+}
+
+.img-carousel{
+    object-fit: cover;
+    height: 60vh;
+    object-position: 0 35%;
+}
+/* 
+.cor-nav :hover{
+    font-weight: 500!important;
+} */
+.social-medias span{
+    color:black;
+    
+}
+.social-medias i{
+    color: #7e459b;
+    font-size: 1.2rem;
+}
+
+.social-medias span :hover{
+    font-weight: 500;
+    color: #7e459b;
+
+}
+
+.tamanho-card {
+    width: 18rem;
+
+}
+
+.img-card {
+    object-fit: cover;
+    height: 40vh;
+    object-position: top;
+}
+
+.img-modal {
+    width: 30vw;
+}
